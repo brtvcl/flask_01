@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main { 
+    width: 800px;
+    display: flex;
+}
+
+.ekle_btn {
+    background-color: beige;
+    padding: 15px;
+    display: block;
+}
+
+.form { 
+    display: flex;
+    flex-direction: column;
+}
